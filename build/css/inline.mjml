@@ -1,0 +1,14 @@
+<mj-style inline="inline">
+  .green div {
+    color: green !important;
+  }
+  .yellow div {
+    color: yellow !important;
+  }
+  .text-right div {
+    text-align: right !important
+  }
+  .text-center div {
+    text-align: center !important
+  }
+</mj-style>

@@ -1,0 +1,27 @@
+<mjml>
+  <mj-head>
+    <mj-title>Airbnb</mj-title>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+    <mj-attributes>
+      <mj-all font-family="Helvetica Neue, Helvetica, Arial" lin=""></mj-all>
+      <mj-include path="./css/class.mjml"></mj-include>
+    </mj-attributes>
+    <mj-include path="./css/inline.mjml"></mj-include>
+  </mj-head> 
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-section full-width="full-width" background-color="#ff5a5f">
+      <mj-column> 
+        <mj-image padding="30px 15px 15px 15px" src="../src/images/logo.png" width="84px" alt=""></mj-image>
+        <mj-text color="white" align="center" font-size="36px"><b>Find homes on Airbnb</b></mj-text>
+        <mj-text css-class="yellow" color="white" align="center" font-size="18px" padding="10px 15px 30px 15px">Discover entire homes and private rooms perfect for any trip.</mj-text>
+        <mj-button background-color="white" color="#ff5a5f" font-size="12px" text-transform="uppercase" width="160px" height="41px" padding="0 0 30px 0"><b>Search</b></mj-button>
+        <mj-button></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#ff5a5f" padding="24px 0px 28px 0px">
+      <mj-column>
+        <mj-image src="../src/images/couch.png" alt="" width="280px"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
