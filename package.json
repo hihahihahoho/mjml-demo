@@ -1,0 +1,23 @@
+{
+  "name": "mlmj-email",
+  "version": "1.0.0",
+  "description": "Run npm install",
+  "main": "index.js",
+  "dependencies": {
+    "mjml": "^4.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hihahihahoho/mjml-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hihahihahoho/mjml-demo/issues"
+  },
+  "homepage": "https://github.com/hihahihahoho/mjml-demo#readme"
+}
